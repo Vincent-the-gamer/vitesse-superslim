@@ -27,9 +27,11 @@
     <span>简体中文</span>
 </p>
 
+# 演示
+在这里看演示: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https://vincent-the-gamer.github.io/vitesse-superslim-demo)
+
 # 特性
 参考[Vitesse-lite](https://github.com/antfu/vitesse-lite)项目.
-
 
 # 从[Vitesse-lite](https://github.com/antfu/vitesse-lite)拿走的特性
 

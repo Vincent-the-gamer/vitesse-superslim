@@ -25,9 +25,11 @@
     </span>
 </p>
 
+# Demo
+See demo at: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https://vincent-the-gamer.github.io/vitesse-superslim-demo)
+
 # Features
 See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
-
 
 # Dropped Features from [Vitesse-lite](https://github.com/antfu/vitesse-lite)
 
