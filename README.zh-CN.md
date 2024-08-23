@@ -39,6 +39,16 @@
 - ~~Vitest~~
 - ~~ESLint~~
 
+# 启动脚本
+
+```shell
+# 开发
+pnpm run serve
+
+# 构建
+pnpm run build
+```
+
 # 开源许可证
 [MIT许可证](./LICENSE)
 

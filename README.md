@@ -37,6 +37,16 @@ See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
 - ~~Vitest~~
 - ~~ESLint~~
 
+# Scripts
+
+```shell
+# dev
+pnpm run serve
+
+# build
+pnpm run build
+```
+
 # License
 [MIT License](./LICENSE)
 
