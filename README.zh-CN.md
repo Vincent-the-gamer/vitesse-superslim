@@ -37,7 +37,6 @@
 
 - ~~Netlify~~
 - ~~Vitest~~
-- ~~ESLint~~
 
 # 启动脚本
 

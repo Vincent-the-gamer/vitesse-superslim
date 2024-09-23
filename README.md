@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    Forked from 
+    Forked from
     <a href="https://github.com/antfu/vitesse-lite" target="_blank">antfu/vitesse-lite</a>
 </p>
 
@@ -35,7 +35,6 @@ See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
 
 - ~~Netlify~~
 - ~~Vitest~~
-- ~~ESLint~~
 
 # Scripts
 
