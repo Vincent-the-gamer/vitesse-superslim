@@ -26,9 +26,11 @@
 </p>
 
 # Demo
+
 See demo at: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https://vincent-the-gamer.github.io/vitesse-superslim-demo)
 
 # Features
+
 See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
 
 # Dropped Features from [Vitesse-lite](https://github.com/antfu/vitesse-lite)
@@ -42,11 +44,15 @@ See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
 # dev
 pnpm run serve
 
+# eslint fix
+pnpm run lint:fix
+
 # build
 pnpm run build
 ```
 
 # License
+
 [MIT License](./LICENSE)
 
 Copyright (c) 2020-PRESENT Anthony Fu

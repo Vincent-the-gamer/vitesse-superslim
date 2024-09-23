@@ -22,6 +22,7 @@
     "@unocss/reset": "^0.62.4",
     "@vitejs/plugin-vue": "^5.1.4",
     "eslint": "^9.11.0",
+    "eslint-plugin-format": "^0.1.2",
     "taze": "^0.16.9",
     "typescript": "^5.6.2",
     "unocss": "^0.62.4",

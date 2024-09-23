@@ -28,9 +28,11 @@
 </p>
 
 # 演示
+
 在这里看演示: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https://vincent-the-gamer.github.io/vitesse-superslim-demo)
 
 # 特性
+
 参考[Vitesse-lite](https://github.com/antfu/vitesse-lite)项目.
 
 # 从[Vitesse-lite](https://github.com/antfu/vitesse-lite)拿走的特性
@@ -44,11 +46,15 @@
 # 开发
 pnpm run serve
 
+# eslint语法修复
+pnpm run lint:fix
+
 # 构建
 pnpm run build
 ```
 
 # 开源许可证
+
 [MIT许可证](./LICENSE)
 
 版权所有 (c) 2020-PRESENT Anthony Fu
