@@ -35,11 +35,6 @@
 
 参考[Vitesse-lite](https://github.com/antfu/vitesse-lite)项目.
 
-# 从[Vitesse-lite](https://github.com/antfu/vitesse-lite)拿走的特性
-
-- ~~Netlify~~
-- ~~Vitest~~
-
 # 启动脚本
 
 ```shell

@@ -33,11 +33,6 @@ See demo at: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https:
 
 See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
 
-# Dropped Features from [Vitesse-lite](https://github.com/antfu/vitesse-lite)
-
-- ~~Netlify~~
-- ~~Vitest~~
-
 # Scripts
 
 ```shell
