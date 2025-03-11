@@ -27,7 +27,7 @@
 
 # Demo
 
-See demo at: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https://vincent-the-gamer.github.io/vitesse-superslim-demo)
+See demo at: [Netlify Demo](https://vitesse-superslim.netlify.app/)
 
 # Features
 

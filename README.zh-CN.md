@@ -29,7 +29,7 @@
 
 # 演示
 
-在这里看演示: [https://vincent-the-gamer.github.io/vitesse-superslim-demo](https://vincent-the-gamer.github.io/vitesse-superslim-demo)
+在这里看演示: [Netlify Demo](https://vitesse-superslim.netlify.app/)
 
 # 特性
 
