@@ -37,7 +37,7 @@ See [Vitesse-lite](https://github.com/antfu/vitesse-lite).
 
 ```shell
 # dev
-pnpm run serve
+pnpm run dev
 
 # eslint fix
 pnpm run lint:fix

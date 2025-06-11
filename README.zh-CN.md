@@ -39,7 +39,7 @@
 
 ```shell
 # 开发
-pnpm run serve
+pnpm run dev
 
 # eslint语法修复
 pnpm run lint:fix
